@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustob790&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-- 🔭 I’m currently working on NoBuzz
+- 🔭 I'm currently seeking a new job
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me:
 <div> 
